@@ -1,12 +1,12 @@
 # Stock-Data-Analysis
 
-Stock Data Analysis means analyzing the current and historical trends in the stock market to make future buying and selling decisions.
+Stock Data Analysis means analyzing the current and historical trends in the stock market to predict future buying and selling decisions.
 
 # Description:
 
 Stock Data Analysis using Python, pandas, NumPy
 
-- I did this project as part of my Data Analysis and Visualization using Python course. The aim of the project was to extract information about various technology stocks to visualize different aspects of the stocks like the Adjusted Closing Prices, Volumes of stocks traded on a particular day, moving averages of the closing price-to get a basic idea of which way the price is moving by cutting down noise from the data and the daily returns on the stocks. 
+- I did this project as part of my Data Warehouse and Knowledge Mining using Python course. The aim of the project was to extract information about various technology stocks to visualize different aspects of the stocks like the Adjusted Closing Prices, Volumes of stocks traded on a particular day, moving averages of the closing price-to get a basic idea of which way the price is moving by cutting down noise from the data and the daily returns on the stocks. 
 
 - Correlation plots were created for the daily percentage return and Closing prices of the stocks to check how correlated two stocks are. It was obvious that all technology stocks are positively correlated but few like Amazon and Microsoft were highly correlated with each other. 
 
